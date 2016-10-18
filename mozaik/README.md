@@ -9,13 +9,13 @@ This repository shows how to use Mozaïk with npm extensions.
 ### Clone the repo
 
 ```bash
-git clone git@github.com:plouc/mozaik-demo.git
+git clone https://github.com/deanx/mozaik
 ```
 
 ### Install packages
 
 ```bash
-cd mozaik-demo
+cd mozaik
 npm install
 ```
 
@@ -37,6 +37,4 @@ just rename it to `.env` and put in your own credentials.
 node app.js
 ```
 
-[travis-image]: https://img.shields.io/travis/plouc/mozaik-demo.svg?style=flat-square
-[travis-url]: https://travis-ci.org/plouc/mozaik-demo
 
